@@ -1,5 +1,5 @@
-#This is a sample git by hameem  
-##includes  
+# This is a sample git by hameem  
+## includes  
 -qwerty  
 -test  
 -Thank you 
